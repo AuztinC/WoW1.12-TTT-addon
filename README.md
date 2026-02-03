@@ -2,7 +2,8 @@
 
 ## To use this addon
 
-### add the 'Travel-Tac-Toe' folder to your WoW 1.12 clients addons
+### add these files to a foler, something like - 'Travel-Tac-Toe' 
+### add the foler to your WoW 1.12 clients addons
 ```
 /interface/addons
 ```
